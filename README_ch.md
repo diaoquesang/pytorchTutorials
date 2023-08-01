@@ -5,6 +5,8 @@
 
 【CNN智能车巡线任务pytorchCNNTutorial】的数据集和预训练模型可下载于https://aistudio.baidu.com/aistudio/datasetdetail/233057
 
+2023/8/1 为【手写数字识别项目pytorchTutorial】和【CNN智能车巡线任务pytorchCNNTutorial】添加了基于matplotlib的损失函数曲线图！😍😍😍
+
 如果喜欢本教程的话，留下你的⭐吧！
 
 ![img](https://github.com/diaoquesang/pytorchTutorials/blob/main/dqs.jpg)
