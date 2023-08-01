@@ -1,12 +1,12 @@
 # pytorchTutorials
-## Basic Tutorials for Pytorch Learning😎😎😎
+## Pytorch 学习基础教程😎😎😎
 
-This tutorial was created on 2023/7/31. Almost all the code has corresponding comments, to help beginners understand dataset, dataloader, transform packaging, preliminary experience of the process of tuning the parameters, the initial grasp of the use of libraries such as opencv, pandas, os, numpy, matplotlib etc., 😋 and get involved in the 【Handwritten Digit Recognition Project (pytorchTutorial)】 and 【CNN Intelligent Vehicle Patrol Task (pytorchCNNTutorial)】 (we simplified some dataset-related operations in order to reduce the amount of code). Enjoy the whole process of running Pytorch!❤️❤️❤️
+本教程创建于2023/7/31，几乎所有代码都有对应的注释，帮助初学者理解dataset、dataloader、transform的封装，初步体验调参的过程，初步掌握opencv、pandas、os、numpy、matplotlib等库的使用，😋纯手撸【手写数字识别项目pytorchTutorial】和【CNN智能车巡线任务pytorchCNNTutorial】（为减少代码量简化了部分数据集相关操作），全流程跑通Pytorch！❤️❤️❤️
 
-The dataset and pre-trained model for 【CNN Intelligent Vehicle Patrol Task (pytorchCNNTutorial)】 is available on https://aistudio.baidu.com/aistudio/datasetdetail/233057
+【CNN智能车巡线任务pytorchCNNTutorial】的数据集和预训练模型可下载于https://aistudio.baidu.com/aistudio/datasetdetail/233057
 
-2023/8/1 Matplotlib-based loss function plots were added for the 【Handwritten Digit Recognition Project (pytorchTutorial)】 and 【CNN Intelligent Vehicle Patrol Task (pytorchCNNTutorial)】! 😍😍😍
+2023/8/1 为【手写数字识别项目pytorchTutorial】和【CNN智能车巡线任务pytorchCNNTutorial】添加了基于matplotlib的损失函数曲线图！😍😍😍
 
-Give me a ⭐ if you like this tutorial!
+如果喜欢本教程的话，留下你的⭐吧！
 
 ![img](https://github.com/diaoquesang/pytorchTutorials/blob/main/dqs.jpg)
