@@ -5,6 +5,8 @@ This tutorial was created on 2023/7/31. Almost all the code has corresponding co
 
 The dataset and pre-trained model for 【CNN Intelligent Vehicle Patrol Task (pytorchCNNTutorial)】 is available on https://aistudio.baidu.com/aistudio/datasetdetail/233057
 
+2023/8/1 Added matplotlib-based loss function plots for the 【Handwritten Digit Recognition Project (pytorchTutorial)】 and 【CNN Intelligent Vehicle Patrol Task (pytorchCNNTutorial)】! 😍😍😍
+
 Give me a ⭐ if you like this tutorial!
 
 ![img](https://github.com/diaoquesang/pytorchTutorials/blob/main/dqs.jpg)
