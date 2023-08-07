@@ -1,0 +1,1 @@
+You can run train.py to download cifar automatically, or download the dataset from https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz and put it into the "cifar" folder.😎😎😎
