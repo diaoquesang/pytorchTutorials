@@ -9,6 +9,8 @@
 
 2023/8/7 加入了【ResNet-18在CIFAR-10上的图像识别实战项目pytorchResnetTutorial】!😍😍😍
 
+2023/8/24 加入了【Diffusion Model扩散模型手写数字图像生成项目pytorchDiffusionTutorial】!😍😍😍
+
 如果喜欢本教程的话，留下你的⭐吧！
 
 ![img](https://github.com/diaoquesang/pytorchTutorials/blob/main/dqs.jpg)
