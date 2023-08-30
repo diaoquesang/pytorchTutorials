@@ -11,8 +11,6 @@
 
 2023/8/24 加入了【Diffusion Model扩散模型手写数字图像生成项目pytorchDiffusionTutorial】!😍😍😍
 
-2023/8/25 加入了【Conditional DDPM条件去噪扩散概率模型骨抑制图像生成项目pytorchConditionalDDPMTutorial】!😍😍😍
-
 2023/8/30 加入了【dataclass数据类使用教程dataclassTutorial】和【实时监控日志输出教程logTutorial】!😍😍😍
 
 如果喜欢本教程的话，留下你的⭐吧！
