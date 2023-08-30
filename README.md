@@ -13,6 +13,8 @@
 
 2023/8/25 加入了【Conditional DDPM条件去噪扩散概率模型骨抑制图像生成项目pytorchConditionalDDPMTutorial】!😍😍😍
 
+2023/8/30 加入了【dataclass数据类使用教程dataclassTutorial】!😍😍😍
+
 如果喜欢本教程的话，留下你的⭐吧！
 
 ![img](https://github.com/diaoquesang/pytorchTutorials/blob/main/dqs.jpg)
