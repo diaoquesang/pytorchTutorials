@@ -94,7 +94,7 @@ model = UNet2DModel(
 model = model.to(device)
 
 # 设定噪声调度器
-noise_scheduler = DDPMScheduler(num_train_timesteps=1000)
+noise_scheduler = DDPMScheduler(num_train_timesteps=1000, beta_schedule="squaredcos_cap_v2")
 noise_scheduler.set_timesteps(1000)
 # 训练循环
 optimizer = torch.optim.AdamW(model.parameters(), lr=2e-5)
