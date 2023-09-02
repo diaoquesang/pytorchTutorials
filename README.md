@@ -15,6 +15,8 @@
 
 2023/8/31 加入了【DDPM去噪扩散概率模型手写数字图像生成项目pytorchDDPMTutorial】!😍😍😍
 
+2023/9/2 加入了【tqdm进度条使用教程tqdmTutorial】!😍😍😍
+
 # 项目概览
 ## ·【手写数字识别项目pytorchTutorial】
 ![img](https://github.com/diaoquesang/pytorchTutorials/blob/main/projectImages/0.jpg)
@@ -30,6 +32,8 @@
 ![img](https://github.com/diaoquesang/pytorchTutorials/blob/main/projectImages/4.jpg)
 ## 【DDPM去噪扩散概率模型手写数字图像生成项目pytorchDDPMTutorial】
 ![img](https://github.com/diaoquesang/pytorchTutorials/blob/main/projectImages/0.jpg)
+## 【tqdm进度条使用教程tqdmTutorial】
+![img](https://github.com/diaoquesang/pytorchTutorials/blob/main/projectImages/5.jpg)
 # 想说的话
 如果喜欢本教程的话，留下你的⭐吧！
 
