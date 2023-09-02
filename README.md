@@ -7,7 +7,7 @@
 ### 涉及到的库:
 torch，torchvision，opencv，pandas，os，numpy，matplotlib，diffusers，dataclasses，tqdm，time等!👍👍👍
 ### 涉及到的技能:
-数据集标注、封装和划分，数据加载器封装，图像预处理封装，模型封装、实例化、训练，推理和优化，数据可视化，实时监控日志输出等!👍👍👍
+数据集标注、封装和划分，数据加载器封装，图像预处理封装，模型封装、实例化、训练、保存、加载、推理和优化，数据可视化，实时监控日志输出等!👍👍👍
 # 历史足迹
 2023/7/31 加入了【手写数字识别项目pytorchTutorial】和【CNN智能车巡线任务pytorchCNNTutorial】!😍😍😍
 
