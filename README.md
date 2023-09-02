@@ -21,7 +21,7 @@ torch，torchvision，opencv，pandas，os，numpy，matplotlib，diffusers，da
 
 2023/9/2 加入了【tqdm进度条使用教程tqdmTutorial】!😍😍😍
 # 项目概览
-## 【手写数字识别项目pytorchTutorial】
+## 【DNN手写数字识别项目pytorchTutorial】
 ![img](https://github.com/diaoquesang/pytorchTutorials/blob/main/projectImages/0.jpg)
 ## 【CNN智能车巡线任务pytorchCNNTutorial】
 ![img](https://github.com/diaoquesang/pytorchTutorials/blob/main/projectImages/1.jpg)
