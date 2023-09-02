@@ -1,11 +1,15 @@
 ### ![img](https://github.com/diaoquesang/pytorchTutorials/blob/main/torch.jpg) [安装Pytorch](https://pytorch.org/)
 # Pytorch学习基础教程😎😎😎
+# 不忘初心
+## 为什么要创建这个教程
+本教程创建于2023/7/31，几乎所有代码都有对应的注释，帮助初学者理解并全流程跑通Pytorch相关任务!❤️❤️❤️
+## 我能在这个教程中学到什么
+### 涉及到的库:
+torch，torchvision，opencv，pandas，os，numpy，matplotlib，diffusers，dataclasses，tqdm，time等!👍👍👍
+### 涉及到的技能:
+数据集标注、封装和划分，数据加载器封装，图像预处理封装，模型封装、实例化、训练，推理和优化，数据可视化，实时监控日志输出等!👍👍👍
 # 历史足迹
-本教程创建于2023/7/31，几乎所有代码都有对应的注释，帮助初学者理解dataset、dataloader、transform的封装，初步体验调参的过程，初步掌握opencv、pandas、os、numpy、matplotlib、diffusers、dataclasses、tqdm等库的使用，😋纯手撸【手写数字识别项目pytorchTutorial】和【CNN智能车巡线任务pytorchCNNTutorial】（为减少代码量简化了部分数据集相关操作），全流程跑通Pytorch！❤️❤️❤️
-
-【CNN智能车巡线任务pytorchCNNTutorial】的数据集和预训练模型可下载于https://aistudio.baidu.com/aistudio/datasetdetail/233057
-
-2023/8/1 为【手写数字识别项目pytorchTutorial】和【CNN智能车巡线任务pytorchCNNTutorial】添加了基于matplotlib的损失函数曲线图！😍😍😍
+2023/7/31 加入了【手写数字识别项目pytorchTutorial】和【CNN智能车巡线任务pytorchCNNTutorial】!😍😍😍
 
 2023/8/7 加入了【ResNet-18在CIFAR-10上的图像识别实战项目pytorchResnetTutorial】!😍😍😍
 
@@ -16,9 +20,8 @@
 2023/8/31 加入了【DDPM去噪扩散概率模型手写数字图像生成项目pytorchDDPMTutorial】!😍😍😍
 
 2023/9/2 加入了【tqdm进度条使用教程tqdmTutorial】!😍😍😍
-
 # 项目概览
-## ·【手写数字识别项目pytorchTutorial】
+## 【手写数字识别项目pytorchTutorial】
 ![img](https://github.com/diaoquesang/pytorchTutorials/blob/main/projectImages/0.jpg)
 ## 【CNN智能车巡线任务pytorchCNNTutorial】
 ![img](https://github.com/diaoquesang/pytorchTutorials/blob/main/projectImages/1.jpg)
@@ -34,6 +37,8 @@
 ![img](https://github.com/diaoquesang/pytorchTutorials/blob/main/projectImages/0.jpg)
 ## 【tqdm进度条使用教程tqdmTutorial】
 ![img](https://github.com/diaoquesang/pytorchTutorials/blob/main/projectImages/5.jpg)
+# 项目备注
+【CNN智能车巡线任务pytorchCNNTutorial】的数据集和预训练模型可下载于https://aistudio.baidu.com/aistudio/datasetdetail/233057
 # 想说的话
 如果喜欢本教程的话，留下你的⭐吧！
 
