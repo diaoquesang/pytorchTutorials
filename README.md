@@ -21,7 +21,7 @@ torch，torchvision，opencv，pandas，os，numpy，matplotlib，diffusers，da
 
 2023/9/2 加入了【tqdm进度条使用教程tqdmTutorial】!😍😍😍
 
-2023/9/9 加入了【Conditional DDPM条件去噪扩散概率模型在JSRT上的骨抑制实战项目】😍😍😍
+2023/9/9 加入了【Conditional DDPM条件去噪扩散概率模型在JSRT上的骨抑制实战项目】!😍😍😍
 # 项目概览
 ## 【DNN手写数字识别项目pytorchTutorial】
 ![img](https://github.com/diaoquesang/pytorchTutorials/blob/main/projectImages/0.jpg)
