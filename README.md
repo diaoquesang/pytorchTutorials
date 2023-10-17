@@ -22,6 +22,8 @@ torch，torchvision，opencv，pandas，os，numpy，matplotlib，diffusers，da
 2023/9/2 加入了【tqdm进度条使用教程tqdmTutorial】!😍😍😍
 
 2023/9/9 加入了【Conditional DDPM条件去噪扩散概率模型在JSRT上的骨抑制实战项目】!😍😍😍
+
+2023/10/17 加入了【自定义损失函数教程pytorchLossTutorial】!😍😍😍
 # 项目概览
 ## 【DNN手写数字识别项目pytorchTutorial】
 ![img](https://github.com/diaoquesang/pytorchTutorials/blob/main/projectImages/0.jpg)
@@ -41,6 +43,8 @@ torch，torchvision，opencv，pandas，os，numpy，matplotlib，diffusers，da
 ![img](https://github.com/diaoquesang/pytorchTutorials/blob/main/projectImages/5.jpg)
 ## 【Conditional DDPM条件去噪扩散概率模型在JSRT上的骨抑制实战项目】
 ![img](https://github.com/diaoquesang/pytorchTutorials/blob/main/projectImages/6.jpg)
+## 【自定义损失函数教程pytorchLossTutorial】
+![img](https://github.com/diaoquesang/pytorchTutorials/blob/main/projectImages/7.jpg)
 # 项目备注
 【CNN智能车巡线任务pytorchCNNTutorial】的数据集和预训练模型可下载于https://aistudio.baidu.com/aistudio/datasetdetail/233057
 
