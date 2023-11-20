@@ -76,6 +76,7 @@ def cal_PSNR(gt_path, bs_path):
 
 
 if __name__ == "__main__":
+    # 输入图像路径
     CXR_path = "./A"
     GT_path = "./C"
     BS_path = "./internal_test_suppressed_10KFold217_uncropped"
@@ -85,6 +86,7 @@ if __name__ == "__main__":
     SSIM_list = []
     PSNR_list = []
 
+    # 遍历图像
     for filename in os.listdir(BS_path):
         cxr_path = os.path.join(CXR_path, filename)
         gt_path = os.path.join(GT_path, filename)
@@ -102,6 +104,7 @@ if __name__ == "__main__":
 
         print(f"{filename} BSR: {BSR} MSE: {MSE} SSIM:{SSIM} PSNR:{PSNR}")
 
+    # 计算平均指标
     print("Average BSR:", sum(BSR_list) / len(BSR_list))
     print("Average MSE:", sum(MSE_list) / len(MSE_list))
     print("Average SSIM:", sum(SSIM_list) / len(SSIM_list))
