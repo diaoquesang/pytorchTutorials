@@ -7,7 +7,7 @@
 ### 涉及到的库:
 torch，torchvision，opencv，pandas，os，numpy，matplotlib，diffusers，dataclasses，tqdm，time等!👍👍👍
 ### 涉及到的技能:
-数据集标注、封装和划分，数据加载器封装，图像预处理封装，模型封装、实例化、训练、保存、加载、推理和优化，自定义损失函数封装，数据可视化，实时监控日志输出等!👍👍👍
+数据集标注、封装和划分，数据加载器封装，图像预处理封装，模型封装、实例化、训练、保存、加载、推理和优化，自定义损失函数封装，评价指标封装，数据可视化，实时监控日志输出等!👍👍👍
 # 历史足迹
 2023/7/31 加入了【手写数字识别项目pytorchTutorial】和【CNN智能车巡线任务pytorchCNNTutorial】!😍😍😍
 
@@ -24,6 +24,8 @@ torch，torchvision，opencv，pandas，os，numpy，matplotlib，diffusers，da
 2023/9/9 加入了【Conditional DDPM条件去噪扩散概率模型在JSRT上的骨抑制实战项目】!😍😍😍
 
 2023/10/17 加入了【自定义损失函数教程pytorchLossTutorial】!😍😍😍
+
+2023/11/20 加入了【图像生成评价指标教程metricTutorial】!😍😍😍
 # 项目概览
 ## 【DNN手写数字识别项目pytorchTutorial】
 ![img](https://github.com/diaoquesang/pytorchTutorials/blob/main/projectImages/0.jpg)
@@ -45,6 +47,8 @@ torch，torchvision，opencv，pandas，os，numpy，matplotlib，diffusers，da
 ![img](https://github.com/diaoquesang/pytorchTutorials/blob/main/projectImages/6.jpg)
 ## 【自定义损失函数教程pytorchLossTutorial】
 ![img](https://github.com/diaoquesang/pytorchTutorials/blob/main/projectImages/7.jpg)
+## 【图像生成评价指标教程metricTutorial】
+![img](https://github.com/diaoquesang/pytorchTutorials/blob/main/projectImages/8.jpg)
 # 项目备注
 【CNN智能车巡线任务pytorchCNNTutorial】的数据集和预训练模型可下载于https://aistudio.baidu.com/aistudio/datasetdetail/233057
 
